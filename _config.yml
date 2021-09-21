@@ -1,0 +1,9 @@
+name: Claire Puppylove
+# markdown: kramdown
+
+# Google Analytics
+# google_analytics: 
+
+url: "https://clairepuppylove.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
